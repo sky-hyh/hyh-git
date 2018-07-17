@@ -7,4 +7,7 @@ public class Test {
     public void master(){
         String s = "master";
     }
+    public void dev(){
+        String s = "dev";
+    }
 }
