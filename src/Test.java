@@ -10,6 +10,7 @@ public class Test {
 
     public void test(){
         String s = "test";
+        String s1 = "test1";
     }
 
     public void dev(){
