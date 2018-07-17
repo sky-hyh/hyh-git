@@ -6,4 +6,8 @@ public class Test {
     public void master(){
         String s = "master";
     }
+
+    public void test(){
+        String s= "test";
+    }
 }
