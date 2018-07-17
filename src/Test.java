@@ -3,11 +3,16 @@ public class Test {
         int a = 100;
         int b = 100;
     }
+
     public void master(){
         String s = "master";
     }
 
     public void test(){
         String s = "test";
+    }
+
+    public void dev(){
+        String s = "dev";
     }
 }
