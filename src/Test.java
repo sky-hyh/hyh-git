@@ -12,5 +12,6 @@ public class Test {
         String s1 = "dev1";
         String s3 = "dev3";
         String s4 = "dev4";
+        String s5 = "dev5";
     }
 }
